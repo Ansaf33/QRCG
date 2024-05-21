@@ -1,0 +1,13 @@
+
+.mainhead{
+  font-size:20px;
+  font-family:'Montserrat';
+  color:rgb(255, 97, 97);
+}
+
+form{
+  display:flex;
+  justify-content: center;
+  height:30vh;
+  align-items: center;
+}
